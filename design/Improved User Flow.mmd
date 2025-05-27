@@ -1,0 +1,16 @@
+graph TD
+    A[User taps "Not Interested"] --> B[Post hidden popup shown]
+
+    B --> C[Show confirmation: "We'll suggest fewer posts like this"]
+    C --> D{User Options}
+
+    D --> E[Don't suggest posts from this account]
+    D --> F[Manage content preferences]
+    D --> G[This post made me uncomfortable]
+    D --> H[Sensitivity Slider: Lenient → Moderate → Strict]
+
+    H --> I[User selects strictness level]
+    I --> J[Adjust signal weight & decay settings]
+
+    J --> K[Feed personalization updated]
+    K --> L[Confirmation message: Preferences saved]
