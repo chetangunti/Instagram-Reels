@@ -17,7 +17,7 @@ The algorithm disproportionately values positive signals (interested) while igno
 
 | Test Case | Action Taken                       | Target Content | Expected Outcome             | Actual Outcome           |
 |-----------|------------------------------------|----------------|------------------------------|--------------------------|
-| TC1       | Liked 3 animal Reels               | Animal         | Slight increase              | ✅ Flooded with animals  |
+| TC1       | "Interested" on 3 animal Reels     | Animal         | Slight increase              | ✅ Flooded with animals  |
 | TC2       | “Not Interested” on 1 animal Reel  | Animal         | Less animal content          | ❌ More animals appeared  |
 | TC3       | “Not Interested” on 2 animal Reels | Animal         | Drastic reduction            | ❌ No change              |
 
