@@ -23,7 +23,7 @@ The algorithm disproportionately values positive signals (interested) while igno
 
 
 ### Tooling
-- Manual tracking (spreadsheet + timestamp)
+- [Manual tracking (spreadsheet + timestamp)](https://docs.google.com/spreadsheets/d/1XNtzpiX7jpMFVeC0Ok9ptZvl2cOyFcPv55Cg0VSQnlU/edit?usp=sharing)
 - Screenshot annotations for report visualization
 
 ## 🗂️ Variables Logged
