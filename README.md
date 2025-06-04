@@ -33,7 +33,7 @@ Despite explicitly expressing disinterest, users often receive **more** of the s
 ### 2. **Sensitivity Slider (UX Feature)**
 - New user setting to control strictness of “Not Interested” signals  
 - Options: **Lenient → Moderate → Strict (nuclear option)**  
-- See [Figma Prototype →](https://figma.com/sensitivity-slider-link)
+- See [Figma Prototype →](https://github.com/chetangunti/Instagram-Reels/blob/39f2c2faff7b15ff4eda764905df9381f83ead4c/design/Suggested%20Change.png)
 
 ### 3. **Transparency Feedback Loop**
 - Show confirmation when user preferences are updated  
@@ -68,7 +68,7 @@ Despite explicitly expressing disinterest, users often receive **more** of the s
 | Creator Fairness   | Increased exposure for niche creators       |
 | Engineering Effort | ~2 sprints to build (uses existing infra)   |
 
-See full breakdown in [`business_impact.md`](./business_impact.md)
+See full breakdown in [`business_impact.md`](https://github.com/chetangunti/Instagram-Reels/blob/39f2c2faff7b15ff4eda764905df9381f83ead4c/research/business_impact.md)
 
 ---
 
