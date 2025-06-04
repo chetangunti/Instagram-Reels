@@ -13,7 +13,7 @@ Despite explicitly expressing disinterest, users often receive **more** of the s
 
 | Action                     | Expected Behavior         | Actual Behavior           | Severity   |
 |----------------------------|---------------------------|---------------------------|------------|
-| 👍 Like 3 animal Reels     | More animal Reels         | ✅ Flooded the feed       | Low        |
+| 👍 "Interested" 3 animal Reels | More animal Reels         | ✅ Flooded the feed       | Low        |
 | 🚫 1x "Not Interested"     | Fewer animal Reels        | ❌ Content increased       | High       |
 | ❌ 2 Dislikes              | Drastic reduction         | ❌ No change               | Critical   |
 
