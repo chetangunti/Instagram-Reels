@@ -1,8 +1,6 @@
 # Instagram Reels Algorithm Teardown  
 ## Why the "Not Interested" Signal Fails for Viral Content
 
-![Demo](design/prototype_gif.gif)
-
 ---
 
 ## Project Objective  
@@ -33,7 +31,7 @@ Despite explicitly expressing disinterest, users often receive **more** of the s
 ### 2. **Sensitivity Slider (UX Feature)**
 - New user setting to control strictness of “Not Interested” signals  
 - Options: **Lenient → Moderate → Strict (nuclear option)**  
-- See [Figma Prototype →](https://github.com/chetangunti/Instagram-Reels/blob/39f2c2faff7b15ff4eda764905df9381f83ead4c/design/Suggested%20Change.png)
+- See [Figma Prototype](https://github.com/chetangunti/Instagram-Reels/blob/39f2c2faff7b15ff4eda764905df9381f83ead4c/design/Suggested%20Change.png)
 
 ### 3. **Transparency Feedback Loop**
 - Show confirmation when user preferences are updated  
@@ -48,8 +46,7 @@ Despite explicitly expressing disinterest, users often receive **more** of the s
 | `research/test_plan.md`            | Hypothesis, methodology, and raw test logs       |
 | `research/reddit_quotes.md`        | User complaints confirming broken feedback loop  |
 | `design/user_flow_mermaid.md`      | Mermaid diagram of the improved UX flow          |
-| `design/sensitivity_slider.fig`    | Figma file for the proposed slider UI            |
-| `design/prototype_gif.gif`         | Visual demo of slider interaction                |
+| `design/suggested change.fig`    | Figma file for the proposed slider UI            |
 | `business_impact.md`               | Retention, ad, and fairness impact analysis      |
 
 ---
